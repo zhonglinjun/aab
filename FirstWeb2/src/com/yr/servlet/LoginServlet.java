@@ -25,7 +25,7 @@ public class LoginServlet extends HttpServlet {
 //		
 //		if(code.equals(code2))
 //		{
-		System.out.println("---------------");
+		System.out.println("-----------2222222222222222----");
 			String username = req.getParameter("username");
 			String password = req.getParameter("password");
 			
